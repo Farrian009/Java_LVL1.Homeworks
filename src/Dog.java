@@ -37,3 +37,4 @@ public class Dog extends Animal {
         System.out.println("Have been created " + numb2 + " objects class Dog.");
     }
 }
+

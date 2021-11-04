@@ -28,3 +28,4 @@ public class Cat extends Animal {
         System.out.println("Have been created " + numb3 + " objects class Cat.");
     }
 }
+

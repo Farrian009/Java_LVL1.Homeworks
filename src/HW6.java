@@ -10,3 +10,4 @@ public class HW6 {
         Dog.getСounter();
     }
 }
+

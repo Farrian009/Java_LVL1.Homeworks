@@ -20,3 +20,4 @@ public class Animal {
         System.out.println("Have been created " + numb + " objects class Animal.");
     }
 }
+
