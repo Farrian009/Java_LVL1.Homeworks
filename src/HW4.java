@@ -2,6 +2,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 public class HW4 {
+    // XO game
     public static  char [][] map;
     static final int SIZE = 3;
     public static final char DOT_EMPTY = '.';
